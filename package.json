@@ -2,10 +2,10 @@
     "name": "mod-three",
     "version": "1.0.0",
     "description": "Finite State Machine for modulo three calculation on binary strings.",
-    "author": "Your Name",
+    "author": "Daryl Majul",
     "repository": {
         "type": "git",
-        "url": "https://github.com/yourusername/mod-three"
+        "url": "https://github.com/darylm05/FSM"
     },
     "type": "module",
     "scripts": {
